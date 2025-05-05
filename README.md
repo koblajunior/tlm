@@ -1,5 +1,5 @@
 # Relationship Masterclass
 
-This is a website for a relationship masterclass learning platform
+This is a relationship masterclass learning platform
 
 
