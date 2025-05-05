@@ -1,5 +1,5 @@
-# The Love Masterclass
+# Relationship Masterclass
 
-This is a website for a learning management system
+This is a website for a relationship masterclass learning platform
 
 
